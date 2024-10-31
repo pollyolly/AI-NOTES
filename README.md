@@ -1,5 +1,5 @@
 # AI-SOLUTION-NOTES
 
-[OpenWebUI](https://docs.openwebui.com/tutorials/deployment/)
+[OpenWebUI (Locally Hosted ChatGPT)](https://docs.openwebui.com/tutorials/deployment/)
 
-[n8n](https://github.com/n8n-io)
+[n8n (Work Automation)](https://github.com/n8n-io)
