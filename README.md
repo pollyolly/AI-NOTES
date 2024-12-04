@@ -7,3 +7,5 @@
 [Datasetninja](https://datasetninja.com/) - curated datasets for computer vision
 
 [universe.roboflow](https://universe.roboflow.com/) - largest database of computer vision datasets
+
+[Free Ebook Dataset](https://gutenberg.org/)
