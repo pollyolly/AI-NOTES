@@ -4,4 +4,6 @@
 
 [n8n (Work Automation)](https://github.com/n8n-io)
 
-[Datasetninja](https://datasetninja.com/) - curated data sets for computer vision
+[Datasetninja](https://datasetninja.com/) - curated datasets for computer vision
+
+[universe.roboflow](https://universe.roboflow.com/) - largest database of computer vision datasets
