@@ -1,4 +1,4 @@
-# AI-SOLUTION-NOTES
+### AI Resources
 
 [OpenWebUI (Locally Hosted ChatGPT)](https://docs.openwebui.com/tutorials/deployment/)
 
