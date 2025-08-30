@@ -18,7 +18,7 @@
   * [Context gem](https://github.com/shcherbak-ai/contextgem)
   * [Extract Thinker](https://github.com/enoch3712/ExtractThinker)
 
-### AI Resources
+### AI Tools Resources
 
 [OpenWebUI (Locally Hosted ChatGPT)](https://docs.openwebui.com/tutorials/deployment/)
 
