@@ -18,6 +18,7 @@
   * [AG2](https://github.com/ag2ai/ag2) - Code
   * [Strands](https://strandsagents.com/) - Code
   * [Agno](https://github.com/agno-agi/agno) - Code
+  * [CrewAI](https://www.crewai.com/open-source)
 
 
 * Document LLM (Extract Info from Documents i.e. PDF)
