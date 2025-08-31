@@ -13,7 +13,13 @@
 * RAG (Retrieval Augmented Generation) - Combine Text Prompts from Ollama / GPT with your existing documents or files
   * [Ollama Embeddings](https://ollama.com/search?c=embedding)
 * AI Agent
-  * [n8n](https://n8n.io/pricing/)
+  * [n8n](https://n8n.io/pricing/) - Drag and Drop
+  * [LangGraph](https://www.langchain.com/langgraph) - Code
+  * [AG2](https://github.com/ag2ai/ag2) - Code
+  * [Strands](https://strandsagents.com/) - Code
+  * [Agno](https://github.com/agno-agi/agno) - Code
+
+
 * Document LLM (Extract Info from Documents i.e. PDF)
   * [Context gem](https://github.com/shcherbak-ai/contextgem)
   * [Extract Thinker](https://github.com/enoch3712/ExtractThinker)
